@@ -169,21 +169,3 @@ It will be a complete roadmap for your placement prep.
 6. If you would like to make any positive change to the resources content.
  
 
-##  I Appreciate any feedback
-Constructive criticisms or code reviews of any kind are very much welcome.
-
-If you have any questions about the solutions you can find here, feel free to contact me at: [sumitsojha8@gmail.com](mailto:sumitsojha8@gmail.com?subject=[GitHub]%20CompetitiveProgramming)
-
-
-- 📫 How to reach me: **You can find me also on [Linkedln](https://www.linkedin.com/in/sumitsojha8/)** or 💌Mail me at [sumitsojha8@gmail.com]()
-
-
-# Social Media #
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/sumitsojha88/)](https://github.com/sumitsojha88/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/sumitsojha8)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumitsojha8@gmail.com)](mailto:sumitsojha8@gmail.com)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/sumitojha2)](https://auth.geeksforgeeks.org/user/sumitojha2)
-<a href="https://www.instagram.com/sumitsojha8/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=20></a>
-
-
-### Credits to respective owners
